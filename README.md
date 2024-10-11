@@ -9,10 +9,7 @@ next-ui
 
 ## Timeline
 
-### framer-motion, next-ui
+### 2024-10-11
 
-2024-10-11
-
-### Repo Creation
-
-2024-10-11
+framer-motion, next-ui
+repo created
