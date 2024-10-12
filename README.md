@@ -1,15 +1,37 @@
 # Framework Playground
 
-It's just a playground where I can test things out and find out how things work
+It's where I play with things and learn stuff
 
-## Frameworks
+## Frameworks List
 
-framer-motion
-next-ui
+- [ ] react-grid-layout
+- [ ] react-fast-marquee
+- [x] framer-motion
+- [x] next-ui
+- [x] tailwind
 
 ## Timeline
 
+---
+
 ### 2024-10-11
 
-framer-motion, next-ui
-repo created
+#### react-fast-marquee
+
+`npm i react-fast-marquee`
+
+#### framer-motion
+
+`npm i framer-motion`
+
+#### next-ui
+
+`npx i @nextui-org/react framer-motion`
+
+#### Tailwind
+
+`npm i tailwindcss`
+
+- avoid "<> </>". fucks up the width.
+
+#### repo created

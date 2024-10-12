@@ -7,6 +7,15 @@
   --foreground: #171717;
 }
 
+@layer base {
+  h1 {
+    @apply text-5xl;
+  }
+  h2 {
+    @apply text-2xl;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -24,4 +33,16 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.box-100 {
+  width: 100px;
+  height: 100px;
+  background-color: darkblue;
+}
+
+.box-200 {
+  width: 200px;
+  height: 200px;
+  background-color: darkblue;
 }
