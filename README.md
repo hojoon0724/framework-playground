@@ -10,6 +10,15 @@ It's where I play with things and learn stuff
 - [x] next-ui
 - [x] tailwind
 
+## Stuff to learn
+
+- [ ] scroll tracking (useScroll by framer motion)
+- [ ] viewport detection (useInView by framer motion)
+- [ ] sticky position
+- [ ] text splitting (splitType)
+- [ ] LERP
+- [ ]
+
 ## Timeline
 
 ---
