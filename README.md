@@ -5,7 +5,7 @@ It's where I play with things and learn stuff
 ## Frameworks List
 
 - [ ] react-grid-layout
-- [ ] react-fast-marquee
+- [x] react-fast-marquee
 - [x] framer-motion
 - [x] next-ui
 - [x] tailwind
@@ -20,6 +20,15 @@ It's where I play with things and learn stuff
 - [ ]
 
 ## Timeline
+
+---
+
+### 2024-10-13
+
+#### react-fast-marquee
+
+Pretty easy, documentation limited
+[Documentation](https://www.react-fast-marquee.com/documentation)
 
 ---
 
