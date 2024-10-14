@@ -8,6 +8,7 @@ It's where I play with things and learn stuff
 - [x] react-fast-marquee
 - [x] framer-motion
 - [x] next-ui
+  - [ ] navbar
 - [x] tailwind
 
 ## Stuff to learn
@@ -29,6 +30,10 @@ It's where I play with things and learn stuff
 
 Pretty easy, documentation limited
 [Documentation](https://www.react-fast-marquee.com/documentation)
+
+### grid-layout
+
+[read this tutorial article](https://isamatov.com/react-grid-layout-tutorial/)
 
 ---
 
